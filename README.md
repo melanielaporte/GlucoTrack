@@ -1,5 +1,9 @@
 <h1 align="center">GlucoTrack</h1>
 
+*Empowering users with personalized, actionable health insights.*
+
+--
+
 ## Goal 
 To create a user-centric dashboard that simplifies health data and empowers users to take control of their health.
 
