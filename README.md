@@ -1,8 +1,5 @@
 <h1 align="center">GlucoTrack</h1>
 
-## Project Overview
-GlucoTrack is a personalized health data dashboard designed for individuals managing chronic conditions, such as diabetes. The dashboard provides real-time glucose trends, daily summaries, and actionable insights to help users make informed decisions about their health.
-
 ## Goal 
 To create a user-centric dashboard that simplifies health data and empowers users to take control of their health.
 
@@ -16,7 +13,12 @@ To create a user-centric dashboard that simplifies health data and empowers user
 - Figma: Wireframing, prototyping, and visual design.
 ### UI design
 
-## UX Reasearch
+## Project Overview
+The GlucoTrack Dashboard was designed to help individuals with diabetes visualize and act on their glucose data. The goal was to simplify health monitoring through a user-centered, intuitive design that could cater to a wide demographic of users, including those with varying levels of tech literacy.
+
+## UX Reasearch Case Study
+
+
 
 
 
