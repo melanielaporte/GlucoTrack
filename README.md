@@ -14,6 +14,7 @@ To create a user-centric dashboard that simplifies health data and empowers user
 
 ## Design Tools
 - Figma: Wireframing, prototyping, and visual design.
+### UI design
 
 ## UX Reasearch
 
