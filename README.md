@@ -42,7 +42,7 @@ To understand how users interact with health dashboards and identify features th
 
 ## Results
 - 85% of users reported the dashboard was easy to navigate.
-- 90% found the actionable insights helpful in managing their glucose levels.
+- 90% found the actionable insights helpful in managing their glucose levels. 
 
 
 
